@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0bcc6db1287c27d4884f4c2d95bf6bc2
+timeCreated: 1524287452
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cousine
+  fontNames:
+  - Cousine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

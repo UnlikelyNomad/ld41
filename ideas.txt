@@ -1,0 +1,59 @@
+[You are the weapon]
+- kirby like powerups
+
+[+A light in the dark]
+- torch/flashlight
+- dark labyrinth
+
+[+Keep growing]
+- Filling a balloon (popping)
+- agar.io
+
+[+3 rules]
+- robotics
+- 3 programming commands to control some avatar
+- 3 rules but get choice to remove one (or 4 and remove one for 3?)
+
+[+Shelter]
+- basic survival game
+- explore, utilizing existing shelters (caves)
+
+[Unusual magic]
+- quantum mechanics
+- love/dating sim
+
+[+Color changes everything]
+- fps shooter with colored filters to find object
+- light color maze
+- color based abilities (red=fire, yellow=electricity, blue=water...)
+
+[+At the beginning there is nothing]
+- universe/planet sandbox
+
+[Combine 2 incompatible genres (e.g. turn based racing)]
+- survival wordsearch - complete words to get that item
+
+[You really shouldn't mix those]
+- alchemy
+- personality types / dating
+
+[Floating islands]
+- Forager clone, increase in levels to acquire more islands
+
+[+It spreads]
+- pbj simulator
+- life sim
+- max destruction game - get points by covering things with slime/mold etc
+
+[The environment changes you]
+- different zones / main elements that give you different abilities (fire, ice, etc)
+
+[Fragile]
+- egg dropping
+
+[You are what you eat]
+- kirby like traits / attacks
+
+[+Self-replication]
+- robots (ai to consume resources)
+- life
